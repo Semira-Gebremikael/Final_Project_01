@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(43, 37, 37);
+    background-color: rgb(41, 38, 38);
     height: 90vh;
 }
 
@@ -7,7 +7,7 @@ h1 {
     font-size: 50px;
     color: bisque;
     text-align: center;
-    border-radius: 10px red;
+    border-radius: 10px rgb(57, 54, 54);
 
 }
 
